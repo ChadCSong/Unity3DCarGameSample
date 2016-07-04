@@ -1,6 +1,6 @@
 # Unity3DCarGameSample
 This is a sample project greate by unity3d. There are two scenes in project.
-I'm a green hand in U3D, just creat for learning.
+I'm a green hand in U3D, just create for learning.
 
 ## FirstScene
 This is a sample scene for ball control. Control a ball to move in fence, you can find sample code for keyboard control.
