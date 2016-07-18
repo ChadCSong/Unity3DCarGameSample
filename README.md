@@ -11,7 +11,7 @@ This scene contains a controllable car model and some cartographic models. You c
 This scene also support mobile touch control, implemented by EasyTouch.
 
 ## How to Run
-Whole project was uploaded. Just import and run.
+Whole project was uploaded. Just import it and run.
 
 Any questions please open new issues, or email me drictly <sackcentury@gmail.com>.
 Pleasure to communicate with each other.
